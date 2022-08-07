@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janeabiero
 - 👀 I’m interested in cybersecurity and database administration
-- 🌱 I’m currently learning AWS and Phyton
+- 🌱 I’m new to this industry and planning to make that big jump into tech 
 - 📫 You may reach me at my email address which is guineverejane@yahoo.com
 
 <!---
